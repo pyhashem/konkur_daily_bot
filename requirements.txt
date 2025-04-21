@@ -1,0 +1,6 @@
+colorama==0.4.6
+cryptg==0.4.0
+jdatetime==5.0.0
+loguru==0.7.2
+telethon==1.40.0
+python-dotenv==1.1.0
